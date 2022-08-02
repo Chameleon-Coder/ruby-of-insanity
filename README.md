@@ -1,2 +1,2 @@
-# It just woke up like this!
-It looks like you guys, apparently.
+# Python Cringe(tm)
+It seems to say something about looking like you guys.
